@@ -1,4 +1,3 @@
-#define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include "TexTest.hpp"
 #include <vector>
 #include <string>
